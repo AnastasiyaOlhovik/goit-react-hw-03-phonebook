@@ -1,0 +1,12 @@
+.Container {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    background: aliceblue;
+    background-size: cover;
+    border-radius: 5px;
+    box-shadow: -7px -7px 20px #fff,
+        7px 7px 20px #babecc;
+}
